@@ -30,6 +30,7 @@
 </ul>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredyekka&show_icons=true&locale=en&layout=compact" alt="fredyekka" /></p>
 - 🔭 I’m currently working on ...Looking Great Opportunity..<br>
+  -😄 I'm fresher in IT Scetor...<br>
 - 👯 I’m looking to collaborate with the ...Teamwork<br>
 - 🤔 I’m looking for help with ...Project Suggestions & Guide <br>
 - 💬 Ask me about ...😉<br>
