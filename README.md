@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fredy Ekka</h1>
 <h3 align="center">Short introduction- Greetings, I hold the post graduation degree.I'm non IT background and new to this profession. I want to switch job in the IT Sector. Currently learning IT skills. I tried creating, the new web project. You can see my creation and I would love to know the feedback for this website. Please note I am still in learning stage and hence all opinions and suggestions are welcome.</h3>
+<i
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredyekka&label=Profile%20views&color=0e75b6&style=flat" alt="fredyekka" /> </p>
+<br>
+🙋‍♂️ <b>About Me</b>
 
 - 🌱 I’m currently learning **react , bootstrap**
 
@@ -26,4 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredyekka&show_icons=true&locale=en&layout=compact" alt="fredyekka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredyekka&show_icons=true&locale=en" alt="fredyekka" /></p>
-
