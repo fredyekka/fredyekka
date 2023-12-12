@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **react , bootstrap**
+- 🌱 I’m currently learning **react**
 
 - 👯 I’m looking **new opportunity**
 
